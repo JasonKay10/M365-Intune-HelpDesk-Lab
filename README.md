@@ -48,7 +48,7 @@ A hands-on lab simulating real Tier 1 help desk work in a Microsoft 365 environm
 - Helpdesk Administrator can reset passwords for non-admin users but cannot create/delete users or change other admins.
 
 ![Helpdesk Administrator role](01-User-Onboarding/08-priya-helpdesk-role.png)
-![Priya review](01-User-Onboarding/10-priya-review.png)
+![Priya review](01-User-Onboarding/10-active-users.png)
 
 ### Troubleshooting: User showed as "Unlicensed"
 Right after creation, Priya appeared as **Unlicensed** in Active users. Before making changes, I refreshed the page and confirmed the license had applied after a short propagation delay. No further action was needed.
